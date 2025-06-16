@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arshiya Hafis</h1>
 
 # 💫 About Me:
-👀 I’m interested in Web Development.
-🌱 I’m currently learning basic programming in Python  and C. 
-💻 I am also fluent in node.js and learning the Django web framework. 
+👀 I’m interested in Web Development, Cloud, Networks
+🌱 Graduated from NIT B.Tech CS'25
+💻 Fluent in NodeJS, Django, NEXT and learning many other frameworks
 📫 You can reach me by mail on arshiyapadiyath@gmail.com
 
 # 🌐 Socials:
